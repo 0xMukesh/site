@@ -38,10 +38,5 @@
     "title": "raygo",
     "url": "https://github.com/0xmukesh/raygo",
     "description": "A tiny path tracer, which I made while reading through <a href='https://raytracing.github.io/' target='_blank'>Ray Tracing in One Weekend</a> book"
-  },
-  {
-    "title": "askanon",
-    "url": "https://x.com/search?q=askanon.fun",
-    "description": "Send anonymous messages to crypto influencers on Twitter, 14k+ messages sent"
   }
 ]
